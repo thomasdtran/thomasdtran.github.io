@@ -1,2 +1,2 @@
 # thomasdtran.github.io
-Website to test out different conecepts.
+Website to test out small ideas.
